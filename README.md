@@ -47,3 +47,6 @@ TROUBLESHOOTING
   first. If it works in games, it works here.
 - Cursor drifts by itself: raise the Deadzone slider.
 - Settings are saved automatically and survive restarts.
+
+
+Windows may see the file as dangerous, this is because I do not want to pay for a certifcate. This fails 4/66 on virustotal, this is due to either me not paying for the certificate and/or because this uses pyinstall which can cause false positives (it uses --onefile, which is apparently what popular viruses use) and because CMK looks like a remote injector for the bluetooth. This runs completely local on the computer and works without internet.
