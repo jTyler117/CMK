@@ -30,8 +30,8 @@ First-time setup (takes 2 minutes):
    button on your controller -> pick what it does -> Save
 4. IMPORTANT: bind one button to "Toggle Mode" (Back/View button is
    perfect) - that's how you switch modes without a keyboard
-5. There's also an action to open the Windows on-screen keyboard,
-   so you can type with the controller
+5. There's also an action to open a custom made on-screen keyboard,
+   so you can type with the controllers D-Pad.
 
 It lives in the little icon area by the clock (blue C, red M).
 Right-click it for quick options. Closing the window just hides it
